@@ -1,10 +1,10 @@
 #Enter Spotify details
-client_id =
-client_secret =
-spot_username =
+client_id =763b63379d1b4c3980360577362cd9e0
+client_secret =893bde1ad6fd4cd9b0caa7c5d2d8fc7c
+spot_username =Keven Menchaca
 
 #Enter LIFX token
-lifx_token =
+lifx_token =ca76b94763540723e8d0a2ed6525df3edbce68cbbf90d490b613e3468ed488b7
 
 #Settings
 #Brightness: 1.0 is 100% brightness, 0.5 is 50% brightness, etc.
